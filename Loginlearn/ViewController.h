@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+- (BOOL)verificationuser:(NSString*)username pwd:(NSString*)password;
 @end
 
